@@ -1,2 +1,3 @@
-# berries
-Frontend test for Jexia
+# Berries
+
+Frontend test project for Jexia
